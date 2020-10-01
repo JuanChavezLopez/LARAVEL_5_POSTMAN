@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `project_manager_api`
+-- Database: `laravel_5_api_postman`
 --
-CREATE DATABASE IF NOT EXISTS `project_manager_api` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `project_manager_api`;
+CREATE DATABASE IF NOT EXISTS `laravel_5_api_postman` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `laravel_5_api_postman`;
 
 -- --------------------------------------------------------
 
